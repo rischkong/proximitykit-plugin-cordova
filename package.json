@@ -1,0 +1,32 @@
+{
+  "name": "com.radiusnetworks.proximitykit",
+  "version": "3.4.1",
+  "description": "Proximitykit Radiusnetworks / ionic2++)",
+  "cordova": {
+    "id": "com.radiusnetworks.proximitykit",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rischkong/proximitykit-plugin-cordova.git"
+  },
+  "keywords": [
+    "cordova",
+    "ibeacon",
+    "beacon",
+    "bluetooth",
+    "le",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "author": "Proximitykit Radiusnetworks",
+  "license": "????",
+  "bugs": {
+    "url": "https://github.com/rischkong/proximitykit-plugin-cordovax/issues"
+  },
+  "homepage": "https://github.com/RadiusNetworks/proximitykit-plugin-cordova/"
+}
